@@ -1,4 +1,4 @@
-# ValidateURL-Alma_E-resourcs-
+# ValidateURL-Alma_E-resourcs
 
 Due to changes of vendors, the links of e-resources may change as well. Some changes like server and domain change may make the old URLs not accessible. However, Alma does not have a URL validation job. While it has a export URLs job, the URLs exported may not be the portfolio link. Although vendor may provide MARC records with updated URLs, when import existing records to Alma, only bib records will be updated, not the portfolio information. For records with PO line associated or local fields and course reserve titles, deleting and re-importing should not be performed  just to update the portfolio URLs. 
 
